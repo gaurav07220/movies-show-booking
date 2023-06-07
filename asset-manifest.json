@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movies-show-booking/static/css/main.9cf03e8d.css",
+    "main.js": "/movies-show-booking/static/js/main.b8db7809.js",
+    "static/js/787.485b544a.chunk.js": "/movies-show-booking/static/js/787.485b544a.chunk.js",
+    "index.html": "/movies-show-booking/index.html",
+    "main.9cf03e8d.css.map": "/movies-show-booking/static/css/main.9cf03e8d.css.map",
+    "main.b8db7809.js.map": "/movies-show-booking/static/js/main.b8db7809.js.map",
+    "787.485b544a.chunk.js.map": "/movies-show-booking/static/js/787.485b544a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cf03e8d.css",
+    "static/js/main.b8db7809.js"
+  ]
+}
